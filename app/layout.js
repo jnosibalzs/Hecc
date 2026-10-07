@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Csak neked Peti!",
-  description: "Csak neked Peti!",
+  title: "Csak neked Robi!",
+  description: "Csak neked Robi!",
 };
 
 export default function RootLayout({ children }) {
