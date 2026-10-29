@@ -4,14 +4,14 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <h1 className={styles.title}>Csak neked Peti!</h1>
+      <h1 className={styles.title}>Csak neked Gábor!</h1>
       <figure className={styles.figure}>
         <Image
           className={styles.image}
-          src="/gold-vault.jpg"
+          src="/gabor-vault.jpg"
           alt="Pizsamás férfi alszik egy aranyrudakkal teli széfben, fejét aranyrudakon pihentetve"
-          width={819}
-          height={581}
+          width={1024}
+          height={726}
           priority
         />
       </figure>
