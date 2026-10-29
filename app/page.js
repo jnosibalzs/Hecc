@@ -8,10 +8,10 @@ export default function Home() {
       <figure className={styles.figure}>
         <Image
           className={styles.image}
-          src="/gorilla-upscaled.jpg"
-          alt="Gorilla, aki a középső ujját mutatja"
-          width={864}
-          height={1152}
+          src="/gold-vault.jpg"
+          alt="Pizsamás férfi alszik egy aranyrudakkal teli széfben, fejét aranyrudakon pihentetve"
+          width={819}
+          height={581}
           priority
         />
       </figure>

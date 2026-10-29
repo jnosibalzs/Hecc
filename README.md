@@ -1,6 +1,6 @@
 # Hecc
 
-Minimális Next.js oldal: **Csak neked Peti!** + gorilla poszter.
+Minimális Next.js oldal: **Csak neked Peti!** + aranyrúd-széf kép.
 
 ## Vercel
 
